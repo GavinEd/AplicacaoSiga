@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Siga</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lb_login">Login</string>
+    <string name="lb_senha">Senha</string>
+    <string name="bt_entrar">Entrar</string>
+    <string name="bt_cancelar">Cancelar</string>
+    <string name="title_activity_principal">principal</string>
+    <string name="title_activity_apiario">apiario</string>
+    <string name="txtdescricao">Descricao</string>
+    <string name="bt_Listar">Listar</string>
+    <string name="title_activity_editar_apiario">editarApiario</string>
+    <string name="title_activity_listar_apiario">listarApiario</string>
+    <string name="txtcodigo">Código</string>
+    <string name="bt_atualizar">Atualizar</string>
+    <string name="btn_apagar">Apagar</string>
+
+    <!-- Dashboad -->
+    <string name="lbListar">Listar</string>
+    <string name="lbPesquisar">Pesquisar</string>
+    <string name="title_activity_dashboard__list">Dashboard_List</string>
+    <string name="title_activity_cadastro_cliente">Cadastro_cliente</string>
+    <string name="title_activity_lista_cadastro">lista_cadastro</string>
+    <string name="title_activity_editar_cliente">editarCliente</string>
+
+</resources>

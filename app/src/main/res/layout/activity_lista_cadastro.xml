@@ -1,0 +1,31 @@
+
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/app_background"
+        android:orientation="vertical"
+        android:padding="@dimen/activity_vertical_margin"
+        tools:context=".aplicacaoSiga" >
+
+        <Button
+            android:id="@+id/btn_cadastraNovo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="novoCadastro"
+            android:text="Novo" />
+
+          <ListView
+              android:id="@+id/lst_cadastro"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+              </ListView>
+
+
+    </LinearLayout>
+
+
+
